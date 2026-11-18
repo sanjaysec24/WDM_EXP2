@@ -47,7 +47,7 @@ G40,high,yes,excellent,yes
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f0006ef-d5bc-4524-a1cb-e6ca1ca71a5e" />
 
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/05c54a21-d5d1-4e2c-92e2-280ef6a86ce6" />
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -58,5 +58,8 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/05c54a21-d5d1-4e2c-92e2-280ef6a86ce6" />
 
-### RESULT: 
+# RESULT: 
+ Thus the program for the Generating Association Rules for Employee dataset using Apriori Algorithm is applied and outputs are verified
+
